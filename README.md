@@ -1,3 +1,7 @@
+# Python Ultimate Course
+Welcome to the **ALL PROJECT** repository! 🚀  
+This course will cover everything you need to master Project!
+---
 # PowerBI_and_SQL Project
 `
 Project 1
