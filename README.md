@@ -18,3 +18,8 @@ Project 1
 #### Add Image
 ![image alt](https://github.com/Suraj-kumar121K/Project/blob/0102f9a38ad3bc8e7bcdc7afad1a5ff68bf1b601/Excel_Project/Project_1/Ecommerce%20Sales%20Analysis.jpg)
 ---
+## 🛡️ License
+This course is licensed under the [MIT License](LICENSE). You are free to use modify, and share this project with proper attribution.
+
+## 🌟 About Me
+My name is **Suraj**. I am currently studying **Data Analytics** and learning how to analyze data, work with **Excel, SQL, Python, and visualization tools**. I am passionate about turning data into meaningful insights and continuously improving my analytical skills.
