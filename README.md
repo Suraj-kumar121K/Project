@@ -16,5 +16,5 @@ Project 1
 `
 ---
 #### Add Image
-![image alt](https://github.com/Surajkumar121K/Project/blob/5ab7c3fd2630a4a124887f0426fb41f1a7d997ec/Excel_Project/Project_1/Ecommerce%20Sales%20Analysis.jpg)
+![image alt](https://github.com/Suraj-kumar121K/Project/blob/0102f9a38ad3bc8e7bcdc7afad1a5ff68bf1b601/Excel_Project/Project_1/Ecommerce%20Sales%20Analysis.jpg)
 ---
