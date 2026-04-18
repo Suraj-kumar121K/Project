@@ -24,6 +24,6 @@ Project 1
 ---
 ## 🛡️ License
 This course is licensed under the [MIT License](LICENSE). You are free to use modify, and share this project with proper attribution.
-
+---
 ## 🌟 About Me
 My name is **Suraj**. I am currently studying **Data Analytics** and learning how to analyze data, work with **Excel, SQL, Python, and visualization tools**. I am passionate about turning data into meaningful insights and continuously improving my analytical skills.
