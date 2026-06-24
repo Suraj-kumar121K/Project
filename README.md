@@ -32,7 +32,7 @@ Project 3
 ![image alt](https://github.com/Suraj-kumar121K/Project/blob/f5de00055d0954977db89b94dc947f46e600031b/Finance_Analysis_Dashboard/1_image.png)
 ---
 ## Image Part 2
-![image alt]()
+![image alt](https://github.com/Suraj-kumar121K/Project/blob/91322e0d7c5a6b630ee617e115db473478db7a58/Finance_Analysis_Dashboard/2_image.png)
 ---
 ## 🛡️ License
 This course is licensed under the [MIT License](LICENSE). You are free to use modify, and share this project with proper attribution.
