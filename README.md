@@ -22,6 +22,14 @@ Project 1
 #### Add Image
 ![image alt](https://github.com/Suraj-kumar121K/Project/blob/0102f9a38ad3bc8e7bcdc7afad1a5ff68bf1b601/Excel_Project/Project_1/Ecommerce%20Sales%20Analysis.jpg)
 ---
+---
+# Finance Analysis Dashboard Project
+`
+Project 3
+`
+---
+#### Add Image
+![image alt](https://github.com/Suraj-kumar121K/Project/blob/0102f9a38ad3bc8e7bcdc7afad1a5ff68bf1b601/Excel_Project/Project_1/Ecommerce%20Sales%20Analysis.jpg)
 ## 🛡️ License
 This course is licensed under the [MIT License](LICENSE). You are free to use modify, and share this project with proper attribution.
 ---
